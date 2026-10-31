@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    font-family: Arial, sans-serif;
+}
 .n2 {
     width: 85%;
     max-width: 1200px;
